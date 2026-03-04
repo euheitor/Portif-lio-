@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../3°M03"
+		},
+		{
+			"path": "../TERCEIRÃO"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TERCEIRÃO"
+	}
+}
